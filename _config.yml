@@ -1,6 +1,6 @@
 name: MG Maquetes
 favicon: null
-layout_spectrum: 0.26667
+layout_spectrum: 1
 typography_spectrum: 0.5383401061408222
 title: Fabricamos todo tipo de maquetes.
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6d5e42'
     - '#489440'
   brandStrength: 0.5
-  lightness: 0.03843461279757321
+  lightness: 0.5
   saturation: 0.07960207434371114
   rhythmicContrast: 0.3559382180683315
 purpose: []
