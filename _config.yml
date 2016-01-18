@@ -1,6 +1,6 @@
 name: MG Maquetes
 favicon: null
-layout_spectrum: 0.3533890403341502
+layout_spectrum: 0.26667
 typography_spectrum: 0.5383401061408222
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.004047817783430219
+  brandStrength: 0.5
   lightness: 0.03843461279757321
   saturation: 0.07960207434371114
   rhythmicContrast: 0.3559382180683315
